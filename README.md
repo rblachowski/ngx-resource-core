@@ -1,2 +1,1 @@
-# ngx-resource-core
-Created with CodeSandbox
+[Features Book - NuxtLink Component](https://nuxtjs.org/docs/2.x/features/nuxt-components)
